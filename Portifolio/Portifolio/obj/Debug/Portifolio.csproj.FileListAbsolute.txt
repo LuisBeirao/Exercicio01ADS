@@ -1,0 +1,10 @@
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\bin\Debug\Portifolio.exe.config
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\bin\Debug\Portifolio.exe
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\bin\Debug\Portifolio.pdb
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.Form1.resources
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.Properties.Resources.resources
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.csproj.GenerateResource.cache
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.exe
+C:\Users\Ana\Desktop\EAD\4 - Semestre\Análise e Desenvolvimento de Sistemas\Portifolio\Nova pasta\Portifolio\Portifolio\obj\Debug\Portifolio.pdb
